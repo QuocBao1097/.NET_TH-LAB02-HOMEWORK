@@ -1,0 +1,8 @@
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\bin\Debug\V_CAU1.exe.config
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\bin\Debug\V_CAU1.exe
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\bin\Debug\V_CAU1.pdb
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\obj\Debug\V_CAU1.csproj.AssemblyReference.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\obj\Debug\V_CAU1.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\obj\Debug\V_CAU1.csproj.CoreCompileInputs.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\obj\Debug\V_CAU1.exe
+C:\Users\QUOC BAO\Downloads\lab2-homework\V_CAU1\obj\Debug\V_CAU1.pdb

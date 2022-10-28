@@ -1,0 +1,8 @@
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\bin\Debug\IV_PHAN2_CAU4.exe.config
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\bin\Debug\IV_PHAN2_CAU4.exe
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\bin\Debug\IV_PHAN2_CAU4.pdb
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\obj\Debug\IV_PHAN2_CAU4.csproj.AssemblyReference.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\obj\Debug\IV_PHAN2_CAU4.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\obj\Debug\IV_PHAN2_CAU4.csproj.CoreCompileInputs.cache
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\obj\Debug\IV_PHAN2_CAU4.exe
+C:\Users\QUOC BAO\Downloads\lab2-homework\IV_PHAN2_CAU4\obj\Debug\IV_PHAN2_CAU4.pdb
